@@ -5,4 +5,4 @@ service-account: service-account@cip-demo-staging.iam.gserviceaccount.com
 images:
 - name: hello-world
   dmap:
-    "sha256:ec22e8de4b8d40252518147adfb76877cb5e1fa10293e52db26a9623c6a4e92b": ["1.0", "-2.1"]
+    "sha256:ec22e8de4b8d40252518147adfb76877cb5e1fa10293e52db26a9623c6a4e92b": ["1.0", "2.1"]
