@@ -2,7 +2,7 @@ registries:
   src: gcr.io/cip-demo-staging
   dest: gcr.io/cip-demo-prod
 service-account: service-account@cip-demo-staging.iam.gserviceaccount.com
-# foo
+# foo bar
 images:
 - name: hello-world
   dmap:
